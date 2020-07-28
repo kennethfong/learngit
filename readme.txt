@@ -6,4 +6,4 @@ Creating a new branch is quick and simple.
 test remote edit
 add aaa;
 aaaa aaaa
-
+insert into git;
