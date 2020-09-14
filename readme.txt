@@ -7,3 +7,5 @@ test remote edit
 add aaa;
 aaaa aaaa
 insert into git;
+
+test create branch
